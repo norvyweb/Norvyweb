@@ -1,16 +1,25 @@
-## Hi there 👋
+# NORVY
 
-<!--
-**norvyweb/Norvyweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Digital Product & Engineering Studio
 
-Here are some ideas to get you started:
+From your real problems to complete digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Norvy designs and engineers proprietary digital products, connected business systems and interactive 3D experiences.
+
+**Our expertise**
+
+- Digital Design & UI/UX
+- Software Engineering
+- Business Systems & Automation
+- 3D Product Configuration
+- E-commerce & Platform Integrations
+
+**Our GitHub**
+
+Explore selected product showcases, technical documentation and independent engineering samples demonstrating our approach to software development.
+
+Our commercial products remain proprietary and are available for business integration and customization.
+
+**Connected systems, not isolated applications.**
+
+[Explore our work](https://www.norvyweb.com)
